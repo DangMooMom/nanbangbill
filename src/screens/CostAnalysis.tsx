@@ -42,7 +42,7 @@ export function CostAnalysis({ baseline, trial, dispatch }: Props) {
           data-testid="go-routine"
           onClick={() => dispatch({ type: 'go', screen: 'revised' })}
         >
-          Try a different routine →
+          Revise my routine →
         </button>
       </section>
 

@@ -36,7 +36,7 @@ Read-only view of the baseline. Changes tried on Revised routine never alter it.
   - Hovering, tapping or using ←/→ (0.5 h steps) shows every heater's cost at that time, and how much more each costs than the cheapest. Equal costs read "cheapest" (or "same" when all are equal).
   - Heaters with the same power share a line label. The key lists each heater's power and cost an hour.
 - **Usage and cost table:** always open, with plain heater names, power, hours a day, days a week, kWh, 30-day cost and share, plus a total row.
-- **Try a different routine card:** invites users to see how different hours or days would change their 30-day cost, quoting the current cost. Its heading and button read “Try a different routine”, and the button opens Revised routine.
+- **Try a different routine card:** invites users to see how different hours or days would change their 30-day cost, quoting the current cost. Its heading reads “Try a different routine” and its button reads “Revise my routine”, which opens Revised routine.
 
 ### 4. Revised routine
 
